@@ -1,0 +1,2 @@
+# clever
+vagyis első repója
